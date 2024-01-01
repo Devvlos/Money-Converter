@@ -5,7 +5,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Money-Converter)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/Money-Converter/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://adhishgupta.rf.gd/)
-[![Latest Release](https://img.shields.io/badge/Latest%01Release-21%20January%202024-yellow.svg)](https://github.com/Devvlos/Money-Converter)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-01%20January%202024-yellow.svg)](https://github.com/Devvlos/Money-Converter)
 
 
 <p align="center">
@@ -18,7 +18,6 @@
 
 <p align="center">
   <img alt="screenshot" src="demo1.png">
-  <img alt="screenshot" src="demo2.png">
 </p>
 
 ---
