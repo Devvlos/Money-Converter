@@ -1,5 +1,5 @@
 <h1 align="center">Money-Converter</h1>
-<h3 align="center">One guy told me poor person cant but Money-Converter Book Which Is True But I Can Code So I Made Using HTML CSS & JS</h3>
+<h3 align="center">A currency converter is a tool or application that allows users to convert the value of one currency into another. It is commonly used by travelers, investors, and businesses engaged in international trade to quickly and accurately determine the equivalent value of money in different currencies.</h3>
 
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Money-Converter)
